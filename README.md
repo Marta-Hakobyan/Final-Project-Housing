@@ -1,4 +1,4 @@
-# Final-Project-Housing
+# Final-Project-Housing-Price-Analysis
 Final group project for Data Visualization course
 
 ## 📁 Files Included
